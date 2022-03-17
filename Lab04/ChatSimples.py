@@ -7,7 +7,7 @@ contatos = {
     "vitu":"172.16.18.40"
 }
 
-PORTA_destino = 14287
+PORTA_destino = 32014
 TEMP = "> Vitu De Marqui: "
 
 sock = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
